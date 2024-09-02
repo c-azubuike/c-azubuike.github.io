@@ -8,3 +8,5 @@ With this dataset, for example, one can tailor their interest to include specifi
 ## Book on Big Data
 My book of choice is called: [_Disruptive Possibilities: How Big Data Changes Everything_]( https://www.amazon.com/Disruptive-Possibilities-Data-Changes-Everything-ebook/dp/B00CLH387W) and is written by Jefferey Needham,who according to [O*Reilley.com]( https://www.oreilly.com/people/jeffrey-needham/),is both a writer and an engineer, as well as the founder of a consulting firm in Silicon Valley, California called “ Scale Abilities Inc.”
 As mentioned earlier, I find this book interesting because I believe it discusses the impact of Big Data across industries and highlights both areas of concern and opportunities.
+## Website URL
+You can always visit my website my going to [link](https://c-azubuike.github.io/) or by searching "https://c-azubuike.github.io"
